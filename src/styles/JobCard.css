@@ -1,0 +1,9 @@
+/* JobCard.css */
+
+.job-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Füge hier weitere spezifische Stile für die JobCard-Komponente hinzu */

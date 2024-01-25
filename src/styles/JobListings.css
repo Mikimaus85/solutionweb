@@ -1,0 +1,10 @@
+/* JobListings.css */
+
+/* Füge hier Stile für die JobListings-Komponente hinzu */
+
+/* Beispiel-Stile für die JobListings-Komponente: */
+.job-listings {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }

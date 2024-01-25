@@ -1,0 +1,19 @@
+/* App.css */
+
+body {
+  font-family: 'Your Chosen Font', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f4f4f4; /* Hintergrundfarbe anpassen */
+}
+
+#root {
+  margin: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+/* Weitere globale Stile, die für die gesamte Anwendung gelten sollen, können hier hinzugefügt werden */
